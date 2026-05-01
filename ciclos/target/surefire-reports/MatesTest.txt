@@ -1,4 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: MatesTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in MatesTest
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.039 s <<< FAILURE! -- in MatesTest
+MatesTest.testDividir -- Time elapsed: 0.022 s <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.contornos.Mates.dividirStatic(Mates.java:6)
+	at MatesTest.testDividir(MatesTest.java:9)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
