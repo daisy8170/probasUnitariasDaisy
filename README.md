@@ -1,13 +1,17 @@
 ![logo](capturas/logoPK.png)
 
 # JUnit en Java con Maven
+
 [Ver o que falamos de JUnit noso blog](https://irocho.wordpress.com/tag/junit/)
+
 ## Instalación
-Asegúrome de que teño Java e tamén:
+
+Asegúrome de que teño **Java** e tamén:
 
 ![Extension Pack for Java](./capturas/image-5.png)
 
 ## Creamos proxecto Maven
+
 No Explorador  de VSCode no botón da dereita _Maven/New Project.._
 
 ![Paso 1](./capturas/1new.png)
@@ -47,8 +51,8 @@ Lembrar que en Codespaces precisamos:
 
 ![alt text](capturas/codespaces.png)
 
-
 ## Consulta
+
 - [Páxina oficial de JUnit](https://junit.org)
 
 - [Páxina de VSCode](https://code.visualstudio.com/docs/java/java-testing)
