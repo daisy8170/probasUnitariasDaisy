@@ -1,7 +1,4 @@
-ciclos/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-ciclos/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-ciclos/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
-ciclos/target/surefire-reports/MatesTest.txt
-ciclos/target/surefire-reports/TEST-MatesTest.xml
-ciclos/target/classes/com/contornos/Mates.class
-ciclos/target/test-classes/MatesTest.class
+.classpath
+.project
+.settings/
+target/
