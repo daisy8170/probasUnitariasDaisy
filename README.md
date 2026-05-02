@@ -1,62 +1,42 @@
-![logo](capturas/logoPK.png)
+![logo](./imaxes/irocho.png)
 
-# JUnit en Java con Maven
+# Probas unitarias
+ 
 
-[Ver o que falamos de JUnit noso blog](https://irocho.wordpress.com/tag/junit/)
+Traballaremos con JUnit en Java con Maven no noso blog. [Temos aquí as tarefas que imos facendo](https://irocho.wordpress.com/tag/junit/) pero  tamén tecleei no wiki deste repo información.
 
-## Instalación
+---
 
-Asegúrome de que teño **Java** e tamén:
+- [Probas unitarias](#probas-unitarias)
+  - [Como faremos](#como-faremos)
+  - [Se queremos  traballar en Codespaces](#se-queremos--traballar-en-codespaces)
+  - [Máis información](#máis-información)
 
-![Extension Pack for Java](./capturas/image-5.png)
 
-## Creamos proxecto Maven
 
-No Explorador  de VSCode no botón da dereita _Maven/New Project.._
+## Como faremos
 
-![Paso 1](./capturas/1new.png)
+Deixovos aquí esta especie de chuletas para que todo funcione ben:
 
-Escollo proxecto _No Archetype... Create a basic Maven project_
+✔️  [Asegurámonos de que temos instalado VSCode e as extensións necesarias ](https://github.com/irocho/probasUnitarias/wiki/Paso-0:-o-que-necesito)
 
-![Paso2](./capturas/noArchetype.png)
+✔️ [Creamos proxecto Maven](https://github.com/irocho/probasUnitarias/wiki/Paso-1:-Preparaci%C3%B3n-proxecto-Maven)
+  
+✔️ Tecleamos o código que queremos probar e despois o ficheiro de probas, [como por exemplo aquí un caso moi sinxelo](https://wp.me/p2OwJM-3as)
 
-No Id do proxecto puxen: *com.contornos*
+✔️ [Executamos as probas en VSCode](https://github.com/irocho/probasUnitarias/wiki/Paso2:-Executar-o-test)
 
-![Paso 3](./capturas/groupId.png) será o nome da carpeta (artifactId)
+## Se queremos  traballar en Codespaces
+Lembrar que en GitHub usamos os contedores de Codespaces. Alí precisamos todo o anterior e tamén asegurarnos que:
 
-Non chamo _demo_ Con id: _ciclos_
+![alt text](./imaxes/codespaces.png)
 
-![Paso 4](./capturas/artifactId.png)
-Tal cual  _Select destination folder_
-Obteño:
-
- ![Maven esquelete](./capturas/estrutura.png)
-
-> Pode que precise modificar _pom.xml_
-
-Para executar en VSCode:
-
-![Executar probas](capturas/executar.png)
-
-Obteño algo así como:
-
-![resultado](./capturas/resultado.png)
-
-ou ben:
-
-![resultado en codespaces](capturas/rescodespaces.png)
-
-## Codespaces
-Lembrar que en Codespaces precisamos:
-
-![alt text](capturas/codespaces.png)
-
-## Consulta
+## Máis información
 
 - [Páxina oficial de JUnit](https://junit.org)
 
-- [Páxina de VSCode](https://code.visualstudio.com/docs/java/java-testing)
+- [Páxina de VSCode sobre testing](https://code.visualstudio.com/docs/java/java-testing)
 
-- [Páxina de Java Brains](https://javabrains.thinkific.com)
+- [Páxina de Java Brains, moooi interesante😉](https://www.javabrains.io/courses/take/junit-basics/)
 
-- [Instalación sinxela](https://luisrrleal.com/blog/instalar-junit-para-pruebas-de-java-en-visual-studio-code)
+- [Instalación sinxela explicada en castelán](https://luisrrleal.com/blog/instalar-junit-para-pruebas-de-java-en-visual-studio-code)
