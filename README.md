@@ -1,17 +1,16 @@
 ![logo](./imaxes/irocho.png)
 
 # Probas unitarias
- 
 
-Traballaremos con JUnit en Java con Maven no noso blog. [Temos aquí as tarefas que imos facendo](https://irocho.wordpress.com/tag/junit/) pero  tamén tecleei no wiki deste repo información.
+Traballaremos con JUnit en Java con Maven no noso blog. 
 
----
+[Temos aquí as tarefas que imos facendo](https://irocho.wordpress.com/tag/junit/) pero  tamén tecleei no wiki deste repo información.
 
+Plan:
 - [Probas unitarias](#probas-unitarias)
   - [Como faremos](#como-faremos)
   - [Se queremos  traballar en Codespaces](#se-queremos--traballar-en-codespaces)
   - [Máis información](#máis-información)
-
 
 
 ## Como faremos
