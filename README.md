@@ -19,11 +19,11 @@ Deixovos aquí esta especie de chuletas para que todo funcione ben:
 
 ✔️  [Asegurámonos de que temos instalado VSCode e as extensións necesarias ](https://github.com/irocho/probasUnitarias/wiki/Paso-0:-o-que-necesito)
 
-✔️ [Creamos proxecto Maven](https://github.com/irocho/probasUnitarias/wiki/Paso-1:-Preparaci%C3%B3n-proxecto-Maven)
+✔️ [Creamos proxecto Maven](https://github.com/irocho/probasUnitarias/wiki/Paso-1:-Preparaci%C3%B3n-proxecto-Maven-en-VSCode)
   
 ✔️ Tecleamos o código que queremos probar e despois o ficheiro de probas, [como por exemplo aquí un caso moi sinxelo](https://wp.me/p2OwJM-3as)
 
-✔️ [Executamos as probas en VSCode](https://github.com/irocho/probasUnitarias/wiki/Paso2:-Executar-o-test)
+✔️ [Executamos as probas en VSCode](https://github.com/irocho/probasUnitarias/wiki/Paso-2:-Executar-un-test-en-VSCode)
 
 ## Se queremos  traballar en Codespaces
 Lembrar que en GitHub usamos os contedores de Codespaces. Alí precisamos todo o anterior e tamén asegurarnos que:
