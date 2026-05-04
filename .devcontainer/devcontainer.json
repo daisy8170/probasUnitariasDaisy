@@ -1,12 +1,13 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/java
 {
-  "name": "Java",
+  "name": "Java, Maven, JUnit",
   // More info: https://containers.dev/guide/dockerfile
   "image": "mcr.microsoft.com/devcontainers/java",
 
   "features": {
     "ghcr.io/devcontainers/features/java:1": {
+      "version": "latest",
       "installMaven": "true",
     }
   },
@@ -17,8 +18,8 @@
     "vscode": {
       "settings": {},
       "extensions": [
+        "vscjava.vscode-java-pack",
         "streetsidesoftware.code-spell-checker",
-        "vscjava.vscode-java-pack"
       ]
     }
   }
