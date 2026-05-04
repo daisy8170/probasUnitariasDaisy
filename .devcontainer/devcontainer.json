@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/java
 {
-  "name": "Java, Maven, JUnit",
+  "name": "Java, Maven, JUnit en i-rochiño",
   "image": "mcr.microsoft.com/devcontainers/java:25",
 
   "customizations": {
@@ -10,7 +10,6 @@
       "settings": {},
       "extensions": [
         "vscjava.vscode-java-pack",
-        "streetsidesoftware.code-spell-checker",
         "hbenl.vscode-test-explorer"
       ]
     }
