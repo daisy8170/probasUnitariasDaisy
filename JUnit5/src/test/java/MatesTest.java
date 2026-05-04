@@ -6,7 +6,7 @@ import com.contornos.Mates;
 public class MatesTest {
     @Test
     public void testDividir() {
-        int resultado = Mates.dividirStatic(10, 0);
+        int resultado = Mates.dividirStatic(10, 10);
         assertEquals(1, resultado);
     }
         @Test
