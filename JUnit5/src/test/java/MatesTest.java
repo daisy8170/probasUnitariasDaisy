@@ -9,13 +9,16 @@ public class MatesTest {
         int resultado = Mates.dividirStatic(10, 10);
         assertEquals(1, resultado);
     }
-        @Test
+
+    @Test
+    @Disabled
     public void testSumar() {
         int resultado = Mates.sumarStatic(32, 0);
         assertEquals(32, resultado);
     }
 
     @Test
+    @Disabled
     public void testRestar() {
         Mates contas = new Mates();
         int resultado = contas.restar(10, 4);

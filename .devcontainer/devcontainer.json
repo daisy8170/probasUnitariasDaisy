@@ -3,14 +3,14 @@
 {
   "name": "Java, Maven, JUnit",
   // More info: https://containers.dev/guide/dockerfile
-  "image": "mcr.microsoft.com/devcontainers/java",
+  "image": "mcr.microsoft.com/devcontainers/java:25",
 
-  "features": {
-    "ghcr.io/devcontainers/features/java:1": {
-      "version": "latest",
-      "installMaven": "true",
-    }
-  },
+  // "features": {
+  //   "ghcr.io/devcontainers/features/java:1": {
+  //     "version": "latest",
+  //     "installMaven": "true",
+  //   }
+  // },
 
   // Configure tool-specific properties.
   "customizations": {

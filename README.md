@@ -10,6 +10,7 @@ Plan:
 - [Probas unitarias](#probas-unitarias)
   - [Como faremos](#como-faremos)
   - [Se queremos  traballar en Codespaces](#se-queremos--traballar-en-codespaces)
+  - [Anotacións](#anotacións)
   - [Máis información](#máis-información)
 
 
@@ -29,6 +30,20 @@ Deixovos aquí esta especie de chuletas para que todo funcione ben:
 Lembrar que en GitHub usamos os contedores de Codespaces. Alí precisamos todo o anterior e tamén asegurarnos que:
 
 ![alt text](./imaxes/codespaces.png)
+
+
+## Anotacións
+```
+@Disabled
+@DisplayName 
+@Nested 
+@Tag 
+@BeforeEach 
+@AfterEach 
+@BeforeAll 
+@AfterAll
+
+```
 
 ## Máis información
 
