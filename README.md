@@ -4,7 +4,7 @@
 
 Traballaremos con JUnit en Java con Maven no noso blog. 
 
-[Temos aquí as tarefas que imos facendo](https://irocho.wordpress.com/tag/junit/) pero  tamén tecleei no wiki deste repo información.
+[Temos aquí as tarefas que imos facendo](https://irocho.wordpress.com/tag/junit/) pero  tamén tecleei no [wiki](https://github.com/irocho/probasUnitarias/wiki) deste repo información.
 
 Plan:
 - [Probas unitarias](#probas-unitarias)

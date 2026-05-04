@@ -1,5 +1,5 @@
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.*;
 
 import com.contornos.Mates;
 
@@ -12,8 +12,8 @@ public class MatesTest {
 
     @Test
     public void testSumar() {
-        int resultado = Mates.sumarStatic(32, 0);
-        assertEquals(32, resultado);
+        int resultado = Mates.sumarStatic(32, 100);
+        assertEquals(132, resultado);
     }
 
     @Test
