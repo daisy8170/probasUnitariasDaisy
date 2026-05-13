@@ -6,14 +6,14 @@ import com.contornos.Mates;
 public class MatesTest {
     @Test
     public void testDividir() {
-        int resultado = Mates.dividirStatic(10,0);
+        int resultado = Mates.dividirStatic(10,10);
         assertEquals(561, resultado);
     }
 
     @Test
     public void testMultiplicar() {
         int resultado = Mates.multiplicarStatic(10,0);
-        assertEquals(89890, resultado);
+        assertEquals(0, resultado);
     }
 
 
@@ -21,13 +21,13 @@ public class MatesTest {
     @Test
     public void testSumar() {
         int resultado = Mates.sumarStatic(32, 100);
-        assertEquals(76876, resultado);
+        assertEquals(132, resultado);
     }
 
     @Test
     public void testRestar() {
         Mates contas = new Mates();
         int resultado = contas.restar(10, 4);
-        assertEquals(687, resultado);
+        assertEquals(6, resultado);
     }
 }
