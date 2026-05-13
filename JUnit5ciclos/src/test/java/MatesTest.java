@@ -30,4 +30,11 @@ public class MatesTest {
         int resultado = contas.restar(10, 4);
         assertEquals(6, resultado);
     }
+
+    @Test
+    public void testRaiz() {
+        Mates calculo = new Mates();
+        double resultado = calculo.raizCadrada( -4);
+        assertEquals(2, resultado);
+    }
 }
